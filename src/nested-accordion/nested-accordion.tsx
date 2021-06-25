@@ -83,7 +83,7 @@ const useStyles = makeStyles((theme) => createStyles({
 	},
 	summaryRoot: {
 		"&.Mui-expanded": {
-			minHeight: "unset",
+			minHeight: 48,
 		},
 	},
 	summaryContent: {
